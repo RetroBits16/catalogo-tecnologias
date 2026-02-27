@@ -1,6 +1,6 @@
 === CATÁLOGO DE TECNOLOGÍAS WEB ===
 ÚLTIMA REVISIÓN: 27/02/2026
-RESPONSABLE: Carles Pellitero
+RESPONSABLE: Jordi Herrera
 --- FRONTEND ---
 [ASIGNADO A PERSONA A]
 Tecnología: React
