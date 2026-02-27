@@ -10,9 +10,9 @@ Recurso: (Persona A: Que recurso?)
 --- BACKEND ---
 [ASIGNADO A PERSONA B]
 Tecnología: Node.js
-Descripción: (Persona B: escribe una descripción breve)
-Nivel: (Persona B: Básico / Intermedio / Avanzado)
-Recurso: (Persona B: escribe una URL o nombre de recurso)
+Descripción: Encangado en el desarrollo de las lineas de codigo
+Nivel: Intermedio
+Recurso: https://github.com/Rayo506?tab=repositories
 --- BASE DE DATOS ---
 [ASIGNADO A PERSONA C]
 Tecnología: MongoDB
