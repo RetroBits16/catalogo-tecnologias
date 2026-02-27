@@ -1,6 +1,10 @@
 === FICHA DEL EQUIPO ===
 ESTADO DEL PROYECTO: En planificación
+<<<<<<< HEAD
 VERSIÓN: 0.2
+=======
+VERSIÓN: 1.0
+>>>>>>> origin/feature/integrante-c
 === INTEGRANTE A — COORDINADOR/A ===
 Nombre: (Persona A: Miguel Rodriguez)
 Tecnología asignada: React
@@ -10,6 +14,6 @@ Nombre: Carles Pellitero Amela
 Tecnología asignada: Node.js
 Estado personal: En progreso
 === INTEGRANTE C ===
-Nombre: (Persona C: escribe tu nombre completo)
+Nombre: (Persona C: Jordi Herrera Soler)
 Tecnología asignada: MongoDB
 Estado personal: Pendiente
